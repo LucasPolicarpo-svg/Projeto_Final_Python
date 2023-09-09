@@ -1,0 +1,2 @@
+cadastro_cursos_2020.csv filter=lfs diff=lfs merge=lfs -text
+PDA_Dados_Cursos_Graduacao_Brasil.csv filter=lfs diff=lfs merge=lfs -text
